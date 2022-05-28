@@ -1,0 +1,1 @@
+# Class-time-using-friend-function
